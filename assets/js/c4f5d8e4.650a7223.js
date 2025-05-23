@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrdk_doc=self.webpackChunkrdk_doc||[]).push([[2634],{192:(e,s,c)=>{c.r(s),c.d(s,{default:()=>o});var u=c(6540),n=c(6347);const o=function(){const e=(0,n.W6)();return(0,u.useEffect)((()=>{e.push("/docs/Meshnology_Wiki_Code_Lab")}),[e]),null}}}]);
